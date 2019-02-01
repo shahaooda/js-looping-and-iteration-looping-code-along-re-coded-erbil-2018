@@ -1,4 +1,4 @@
-// Code your solutions in this file
+
 / Code your solutions in this file
 let emp = ['Lisa', 'Kaitlin', 'Jan']
 function printBadges(emp) {
